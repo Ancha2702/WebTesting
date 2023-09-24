@@ -1,0 +1,10 @@
+url: https://test-stand.gb.ru/gateway/login
+address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+
+login: Petrov12
+pswd: b693c5f142
+
+title: New_title
+description: New TESTING1
+content: It is good!
