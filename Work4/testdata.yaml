@@ -1,0 +1,29 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+
+login: Petrov12
+pswd: b693c5f142
+
+title: New_title123
+description: New TESTING1
+content: It is good!
+
+name: Ann
+email: ancha@gmail.com
+content_1: 123456789
+message_success: Form successfully submitted
+
+#API data
+
+login_api: ancha
+pswd_api: 3980b518a2
+
+url_api_login: https://test-stand.gb.ru/gateway/login
+url_api_posts: https://test-stand.gb.ru/api/posts
+
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+alien_title: 'New post'
